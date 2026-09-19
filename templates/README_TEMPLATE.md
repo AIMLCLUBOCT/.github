@@ -3,7 +3,7 @@
 > [One-line clear description of this repository or project]
 
 [![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=flat-square)](https://aimlcluboct.in)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](#license)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
@@ -126,7 +126,7 @@ Contributions are welcome! Please read our [Global Contribution Guidelines](http
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Distributed under the MIT License. See `LICENSE` in the repository root for more information.
 
 ---
 
