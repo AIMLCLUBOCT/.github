@@ -45,7 +45,7 @@ We bridge the gap between classroom theory and industry-grade AI applications by
 | :--- | :--- | :--- |
 | **Faculty Coordinator** | **Prof. Shamaila Khan** | Faculty of Computer Science & Engineering |
 | **President** | **Vishal Kumar** | AIML Club Leadership |
-| **Vice President** | **Umesh Patel** ([@UmeshCode1](https://github.com/UmeshCode1)) | AIML Club Leadership |
+| **Vice President** | **Umesh Patel** ([@UmeshCode1](https://github.com/UmeshCode1)) | System Architect & Leadership |
 | **Tech Lead** | **Kinshuk Verma** | Technical Architecture & Workshops |
 | **Event Heads** | **Gourav Jain**, **Aarchi Sharma**, **Parul Ajit** | Events & Hackathon Operations |
 | **Discipline Head** | **Prince Kumar** | Operations & Standards |
