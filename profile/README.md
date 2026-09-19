@@ -1,8 +1,22 @@
 <div align="center">
 
-# 🤖 AI & Machine Learning Club
-### **Oriental College of Technology, Bhopal**
-*“Innovate • Implement • Inspire”*
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://raw.githubusercontent.com/AIMLCLUBOCT/.github/main/assets/oct_college_logo.png" alt="Oriental College of Technology Logo" width="95"/>
+    </td>
+    <td align="center" style="border: none; padding: 0 20px;">
+      <h1 style="margin: 0; padding: 0; border-bottom: none;">🤖 AI & Machine Learning Club</h1>
+      <h3 style="margin: 5px 0; padding: 0; border-bottom: none; font-weight: 500;"><b>Oriental College of Technology, Bhopal</b></h3>
+      <p style="margin: 0; padding: 0; font-size: 1.1em; color: #58a6ff;"><i>“Innovate • Implement • Inspire”</i></p>
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://raw.githubusercontent.com/AIMLCLUBOCT/.github/main/assets/aiml_club_logo.png" alt="AIML Club Logo" width="95"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 [![Website](https://img.shields.io/badge/Official_Website-aimlcluboct.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
 [![Social Hub](https://img.shields.io/badge/Digital_Hub-social.aimlcluboct.in-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://social.aimlcluboct.in)
@@ -20,6 +34,27 @@
 We are the official **AI & Machine Learning Club of Oriental College of Technology (OCT), Bhopal** — a student-driven technology community committed to hands-on engineering, open-source innovation, research exploration, and peer-to-peer technical mentorship.
 
 We bridge the gap between classroom theory and industry-grade AI applications by building real systems, hosting hackathons, organizing intensive bootcamps, and maintaining reproducible learning paths.
+
+---
+
+## 👥 Core Leadership & Mentorship
+
+<div align="center">
+
+| Role | Name | Profile / Department |
+| :--- | :--- | :--- |
+| **Faculty Coordinator** | **Prof. Shamaila Khan** | Faculty of Computer Science & Engineering |
+| **President** | **Vishal Kumar** | AIML Club Leadership |
+| **Vice President** | **Umesh Patel** ([@UmeshCode1](https://github.com/UmeshCode1)) | System Architect & Leadership |
+| **Tech Lead** | **Kinshuk Verma** | Technical Architecture & Workshops |
+| **Event Heads** | **Gourav Jain**, **Aarchi Sharma**, **Parul Ajit** | Events & Hackathon Operations |
+| **Discipline Head** | **Prince Kumar** | Operations & Standards |
+| **Anchor Heads** | **Heer**, **Anshul Sharma** | Anchor Wing & Presentations |
+| **PR & Media Heads** | **Prakhar Sahu**, **Khushi Kumari** | Public Relations & Photopia Wing |
+
+👉 **[Meet the Complete 30+ Member Team on aimlcluboct.in/team ↗](https://aimlcluboct.in/team)**
+
+</div>
 
 ---
 
@@ -131,8 +166,8 @@ Access all official AIML Club OCT platforms:
 - 🔴 **Real-Time Live Updates:** [live.aimlcluboct.in](https://live.aimlcluboct.in)
 - 🗣️ **Voice of AIML Club (Suggestions & Feedback):** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
 - 📝 **Technical Blog & Updates:** [aimlcluboct.in/blog](https://aimlcluboct.in/blog)
-- 📜 **Club Constitution:** [aimlcluboct.in/constitution](https://aimlcluboct.in/constitution)
 - 👥 **Core Team & Leadership:** [aimlcluboct.in/team](https://aimlcluboct.in/team)
+- 📜 **Club Constitution:** [aimlcluboct.in/constitution](https://aimlcluboct.in/constitution)
 - 📁 **Media & Event Gallery:** [aimlcluboct.in/gallery](https://aimlcluboct.in/gallery)
 - 📲 **Official APK & App Releases:** [Google Drive Archive](https://drive.google.com/drive/folders/1xRzPHXexGDH9ggROAhSjkI2hPsdRcE9F?usp=sharing)
 
