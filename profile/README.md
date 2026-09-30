@@ -169,6 +169,7 @@ Access all official AIML Club OCT platforms:
 - 👥 **Core Team & Leadership:** [aimlcluboct.in/team](https://aimlcluboct.in/team)
 - 📜 **Club Constitution:** [aimlcluboct.in/constitution](https://aimlcluboct.in/constitution)
 - 📁 **Media & Event Gallery:** [aimlcluboct.in/gallery](https://aimlcluboct.in/gallery)
+- 📸 **Official Media Records & Photo Gallery:** [Google Drive Photo Archive](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing)
 - 📲 **Official APK & App Releases:** [Google Drive Archive](https://drive.google.com/drive/folders/1xRzPHXexGDH9ggROAhSjkI2hPsdRcE9F?usp=sharing)
 
 ---
