@@ -175,15 +175,24 @@ Access all official AIML Club OCT platforms:
 
 ---
 
-## 🤝 Contributing & Community Standards
+## 🤝 Student Contributions & Open Source Onboarding
 
-We welcome contributions from students, alumni, and tech enthusiasts! You can contribute by:
-1. Adding curated tutorials or official documentation links to `learning_resources`.
-2. Documenting or uploading code samples for past and upcoming workshops in `Workshops`.
-3. Submitting open-source AI/ML projects and starter templates to `Projects`.
-4. Improving existing documentation, fixing bugs, and submitting pull requests.
+Every student from Oriental College of Technology (and the global open-source community) can contribute to AIML Club OCT. You **do not need prior experience** or admin privileges to get started!
 
-Please read our [**Global Contribution Guidelines**](https://github.com/AIMLCLUBOCT/.github/blob/main/CONTRIBUTING.md) and [**Code of Conduct**](https://github.com/AIMLCLUBOCT/.github/blob/main/CODE_OF_CONDUCT.md) before opening a pull request.
+```mermaid
+flowchart LR
+    A[1. Fork Any Repo<br/>Projects / Workshops] --> B[2. Pick an Issue<br/>'good first issue']
+    B --> C[3. Code & Commit<br/>Add features or fixes]
+    C --> D[4. Open Pull Request<br/>Reviewed & Merged!]
+```
+
+### 🌟 How to Make Your First Contribution:
+1. **Fork the Repository:** Click the **Fork** button at the top right of any [AIML Club OCT repository](https://github.com/AIMLCLUBOCT).
+2. **Pick an Open Task:** Check our beginner-friendly issues labeled [**`good first issue`**](https://github.com/issues?q=is%3Aissue+is%3Aopen+org%3AAIMLCLUBOCT+label%3A%22good+first+issue%22) across our projects.
+3. **Submit Your Pull Request:** Push your code or documentation improvements and click **"Contribute > Open Pull Request"**.
+4. **Get Featured:** Once reviewed and merged by club leads, your GitHub profile is permanently celebrated on our official Contributors roster!
+
+Read our [**Global Contribution Guidelines**](https://github.com/AIMLCLUBOCT/.github/blob/main/CONTRIBUTING.md) and [**Code of Conduct**](https://github.com/AIMLCLUBOCT/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ---
 
