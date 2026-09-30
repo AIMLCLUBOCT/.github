@@ -23,6 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AIML_Club_OCT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aimlcluboct)
 [![Instagram](https://img.shields.io/badge/Instagram-@aimlcluboct-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aimlcluboct)
 [![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Community_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ITBTDOgerQVLnw9dq7jxN6)
+[![Photo Gallery](https://img.shields.io/badge/Photo_Gallery-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing)
 [![Commudle](https://img.shields.io/badge/Commudle-Tech_Community-FF6B6B?style=for-the-badge)](https://www.commudle.com/communities/ai-ml-club)
 
 </div>
