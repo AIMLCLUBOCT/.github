@@ -61,7 +61,7 @@ We bridge the gap between classroom theory and industry-grade AI applications by
 | **Anchor Heads** | **Heer**, **Anshul Sharma** | Anchor Wing & Presentations |
 | **PR & Media Heads** | **Prakhar Sahu**, **Khushi Kumari** | Public Relations & Photopia Wing |
 
-👉 **[Meet the Complete 30+ Member Team on aimlcluboct.in/team ↗](https://aimlcluboct.in/team)**
+👉 **[Meet the Complete 41-Member Council & Team Directory on aimlcluboct.github.io/#team ↗](https://aimlcluboct.github.io/#team)** • **[Official Team on aimlcluboct.in/team ↗](https://aimlcluboct.in/team)**
 
 </div>
 
