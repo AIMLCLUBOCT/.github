@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0052CC,8A2BE2,00F5FF&height=230&section=header&text=AIML%20Club%20OCT&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="AIML Club Header Banner" width="100%"/>
+
 <table align="center" border="0" style="border: none; background: transparent;">
   <tr>
     <td align="center" width="120" style="border: none;">
@@ -18,6 +20,11 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Innovate+%E2%80%A2+Implement+%E2%80%A2+Inspire;Oriental+College+of+Technology%2C+Bhopal;Building+Production+AI+%E2%80%A2+Open+Source+%E2%80%A2+Hands-on+Labs;300%2B+Students+%E2%80%A2+12+Learning+Modules+%E2%80%A2+Colab+Workshops" alt="Typing Tagline"/>
+
+<br/><br/>
+
+[![GitHub Pages](https://img.shields.io/badge/Web_Portal-aimlcluboct.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://aimlcluboct.github.io)
 [![Website](https://img.shields.io/badge/Official_Website-aimlcluboct.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
 [![Social Hub](https://img.shields.io/badge/Digital_Hub-social.aimlcluboct.in-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://social.aimlcluboct.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AIML_Club_OCT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aimlcluboct)
@@ -222,5 +229,6 @@ Connect with 300+ students, mentors, and alumni across our interactive discussio
 
 <div align="center">
 <sub>© 2026 AI & Machine Learning Club – Oriental College of Technology, Bhopal. All rights reserved.</sub><br>
-<sub><i>"The best way to predict the future is to invent it."</i> — Alan Kay</sub>
+<sub><i>"The best way to predict the future is to invent it."</i> — Alan Kay</sub><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0052CC,8A2BE2,00F5FF&height=120&section=footer" width="100%"/>
 </div>
