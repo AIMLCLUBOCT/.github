@@ -25,6 +25,7 @@
 <br/><br/>
 
 [![GitHub Pages](https://img.shields.io/badge/Web_Portal-aimlcluboct.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://aimlcluboct.github.io)
+[![Live Activities](https://img.shields.io/badge/Live_Activities-Student_Radar-FF6B6B?style=for-the-badge&logo=rss)](https://aimlcluboct.github.io/#activities)
 [![Website](https://img.shields.io/badge/Official_Website-aimlcluboct.in-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
 [![Social Hub](https://img.shields.io/badge/Digital_Hub-social.aimlcluboct.in-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://social.aimlcluboct.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AIML_Club_OCT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aimlcluboct)
@@ -37,6 +38,9 @@
 </div>
 
 ---
+
+> [!IMPORTANT]
+> **📢 Live Student Notice & Activity Board:** All upcoming hackathons, active workshop Colab labs, and new starter project releases are synchronized live on our **[Live Activities Radar on aimlcluboct.github.io/#activities ↗](https://aimlcluboct.github.io/#activities)**. Have an activity or project idea? Pitch it via the **[Propose Activity Portal](https://aimlcluboct.github.io/#activities)**!
 
 ### 🌐 Welcome to the AIML Club OCT Knowledge Ecosystem
 
