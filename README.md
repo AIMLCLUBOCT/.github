@@ -30,6 +30,7 @@ GitHub uses this repository to provide default community health files to all oth
 - 📚 **Learning Resources:** [AIMLCLUBOCT/learning_resources](https://github.com/AIMLCLUBOCT/learning_resources)
 - 🚀 **Projects Hub:** [AIMLCLUBOCT/Projects](https://github.com/AIMLCLUBOCT/Projects)
 - 🛠️ **Workshops Archive:** [AIMLCLUBOCT/Workshops](https://github.com/AIMLCLUBOCT/Workshops)
+- 🧩 **Community Templates:** [AIMLCLUBOCT/community-templates](https://github.com/AIMLCLUBOCT/community-templates)
 - 🎤 **Events Archive:** [AIMLCLUBOCT/EVENTS](https://github.com/AIMLCLUBOCT/EVENTS)
 
 ---

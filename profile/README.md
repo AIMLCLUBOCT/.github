@@ -93,6 +93,7 @@ Navigate through our core repositories below:
 | [**`learning_resources`**](https://github.com/AIMLCLUBOCT/learning_resources) | Complete 0-to-1 curriculum: Roadmaps, Python, Math, ML, Deep Learning, GenAI, AI Agents, CV, NLP, and project ideas. | All Learners (Beginner to Advanced) |
 | [**`Projects`**](https://github.com/AIMLCLUBOCT/Projects) | Showcase hub of club projects, student open-source repositories, ML architectures, and deployment pipelines. | Builders, Contributors, Recruiters |
 | [**`Workshops`**](https://github.com/AIMLCLUBOCT/Workshops) | Interactive Jupyter notebooks, slide decks, datasets, and step-by-step coding exercises from our technical bootcamps. | Workshop Attendees & Self-Learners |
+| [**`community-templates`**](https://github.com/AIMLCLUBOCT/community-templates) | Official GitHub Template Repository: Project, research, workshop, event, and inference microservice boilerplates. | Builders, Workshop Leads, Organizers |
 | [**`EVENTS`**](https://github.com/AIMLCLUBOCT/EVENTS) | Archive of hackathons, speaker sessions, webinars, orientation events, agendas, and outcome reports. | Community Members & Event Leads |
 | [**`.github`**](https://github.com/AIMLCLUBOCT/.github) | Community governance, organization health, contribution standards, codes of conduct, and templates. | Open-Source Contributors & Maintainers |
 
@@ -104,15 +105,15 @@ If you are a first-year student or stepping into Machine Learning for the first 
 
 ```mermaid
 flowchart LR
-    A[1. Join Community<br/>WhatsApp & Discord] --> B[2. Setup Git & Python<br/>learning_resources/01-python]
+    A[1. Join Community<br/>WhatsApp & Discussions] --> B[2. Setup Git & Python<br/>learning_resources/01-python]
     B --> C[3. Build First Model<br/>Workshops/beginner]
     C --> D[4. Contribute to a Project<br/>Projects/beginner]
 ```
 
-1. **Step 1:** Star and explore [**`learning_resources`**](https://github.com/AIMLCLUBOCT/learning_resources) to understand the foundational prerequisites.
-2. **Step 2:** Follow the [**Beginner Roadmap**](https://github.com/AIMLCLUBOCT/learning_resources/blob/main/00-roadmap/beginner-roadmap.md) to set up your Python, Git, and Jupyter environment.
-3. **Step 3:** Clone hands-on exercises from [**`Workshops/beginner`**](https://github.com/AIMLCLUBOCT/Workshops/tree/main/beginner).
-4. **Step 4:** Pick a beginner starter project from [**`Projects/beginner`**](https://github.com/AIMLCLUBOCT/Projects/tree/main/beginner) and submit your first Pull Request!
+1. **Step 1:** Star and explore [**`learning_resources`**](https://github.com/AIMLCLUBOCT/learning_resources) to understand foundational roadmaps and prerequisites.
+2. **Step 2:** Follow the [**Beginner Roadmap**](https://github.com/AIMLCLUBOCT/learning_resources/blob/main/00-roadmap/beginner-roadmap.md) to configure your Python, Git, and VS Code / Jupyter environment.
+3. **Step 3:** Clone hands-on exercises from [**`Workshops/beginner`**](https://github.com/AIMLCLUBOCT/Workshops/tree/main/beginner) (e.g. `01_python_numpy_basics.ipynb`, `03_intro_machine_learning.ipynb`, or `04_nlp_sentiment_analysis.ipynb`).
+4. **Step 4:** Pick a beginner starter project from [**`Projects/beginner`**](https://github.com/AIMLCLUBOCT/Projects/tree/main/beginner) (such as the [Student Academic Risk Predictor](https://github.com/AIMLCLUBOCT/Projects/tree/main/beginner/student-performance-predictor) or [Phishing & Spam Classifier](https://github.com/AIMLCLUBOCT/Projects/tree/main/beginner/phishing-spam-detector)) and submit your first Pull Request!
 
 ---
 
@@ -195,6 +196,18 @@ flowchart LR
 4. **Get Featured:** Once reviewed and merged by club leads, your GitHub profile is permanently celebrated on our official Contributors roster!
 
 Read our [**Global Contribution Guidelines**](https://github.com/AIMLCLUBOCT/.github/blob/main/CONTRIBUTING.md) and [**Code of Conduct**](https://github.com/AIMLCLUBOCT/.github/blob/main/CODE_OF_CONDUCT.md).
+
+---
+
+## 💬 Community Discussion Forums
+
+Connect with 300+ students, mentors, and alumni across our interactive discussion spaces:
+
+- 🚀 **[Student Project Showcase](https://github.com/AIMLCLUBOCT/learning_resources/discussions/9):** Share your ML prototypes, web demos, and get constructive code reviews from club seniors.
+- 💼 **[Career, Portfolio & Interview Preparation Guide](https://github.com/AIMLCLUBOCT/learning_resources/discussions/10):** Actionable strategies for landing AI/ML internships, winning hackathons, and building standout portfolios.
+- 🔬 **[Frontier AI Research & Reasoning Forum](https://github.com/AIMLCLUBOCT/learning_resources/discussions/5):** Deep dives into reasoning models, RLVR, test-time compute, and paper replications.
+- 💡 **[Student Project Showcase & Collab Hub](https://github.com/AIMLCLUBOCT/Projects/discussions/3):** Find team partners for upcoming college hackathons.
+- 👋 **[Welcome & Community Introductions](https://github.com/AIMLCLUBOCT/learning_resources/discussions/4):** Introduce your interests, tech stack, and semester goals.
 
 ---
 
