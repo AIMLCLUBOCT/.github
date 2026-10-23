@@ -110,6 +110,20 @@ Navigate through our core repositories below:
 
 ---
 
+## ⚡ Featured Hands-on Starters (Try Now in 30 Seconds!)
+
+Jump straight into working code built and maintained by our community:
+
+| Project | Level | Highlights | Quick Start |
+| :--- | :--- | :--- | :--- |
+| 🛡️ [**Phishing & Spam Detector**](https://github.com/AIMLCLUBOCT/Projects/tree/main/beginner/phishing-spam-detector) | Beginner | **Interactive Streamlit Web UI**, quick demo buttons, TF-IDF + Naive Bayes classifier | `streamlit run app.py` |
+| 💬 [**Student Feedback Sentiment Analyzer**](https://github.com/AIMLCLUBOCT/Projects/tree/main/intermediate/student-feedback-sentiment-analyzer) | Intermediate | **Aspect-Based Sentiment Analysis (ABSA)**, cross-validation model benchmarking, `--save`/`--load` persistence | `python train_and_evaluate.py --interactive` |
+| 📊 [**Student Academic Performance Predictor**](https://github.com/AIMLCLUBOCT/Projects/tree/main/beginner/student-performance-predictor) | Beginner | End-to-end tabular ML pipeline, feature importance analysis, early risk alert heuristic | `python train_and_evaluate.py` |
+| 🦺 [**Real-Time Safety Helmet Detector**](https://github.com/AIMLCLUBOCT/Projects/tree/main/intermediate/safety-helmet-detector) | Intermediate | YOLOv8 object detection, bounding box overlay, real-time safety compliance monitoring | `python detect.py` |
+| 🧠 [**Campus RAG Knowledge Assistant**](https://github.com/AIMLCLUBOCT/Projects/tree/main/advanced/campus-rag-assistant) | Advanced | Retrieval-Augmented Generation, vector embeddings, student handbook Q&A | `python query.py` |
+
+---
+
 ## 🧭 Start Here: New to AI/ML?
 
 If you are a first-year student or stepping into Machine Learning for the first time, follow this 4-step onboarding plan:
@@ -207,6 +221,24 @@ flowchart LR
 4. **Get Featured:** Once reviewed and merged by club leads, your GitHub profile is permanently celebrated on our official Contributors roster!
 
 Read our [**Global Contribution Guidelines**](https://github.com/AIMLCLUBOCT/.github/blob/main/CONTRIBUTING.md) and [**Code of Conduct**](https://github.com/AIMLCLUBOCT/.github/blob/main/CODE_OF_CONDUCT.md).
+
+---
+
+## 🏆 Student Contributors & Open Source Heroes
+
+We proudly recognize the students and developers who build, improve, and document the AIML Club OCT codebase:
+
+| Contributor | Focus Area / PR | Project Impact |
+| :--- | :--- | :--- |
+| **[@Hitesh-XS](https://github.com/Hitesh-XS)** | [Projects #10](https://github.com/AIMLCLUBOCT/Projects/pull/10) | Built the **Student Feedback Sentiment Analyzer** starter with Aspect-Based Sentiment Analysis (ABSA) & model evaluation. |
+| **[@TANISH-88](https://github.com/TANISH-88)** | [Projects #9](https://github.com/AIMLCLUBOCT/Projects/pull/9) | Created the **Interactive Streamlit Web UI** for the Phishing & Spam Message Classifier. |
+| **[@MathewTech254](https://github.com/MathewTech254)** | [Projects #6](https://github.com/AIMLCLUBOCT/Projects/pull/6) | Engineered the real-time webcam inference loop, FPS counter, and safety compliance HUD for the Helmet Detector. |
+| **[@sayantandutta117-hue](https://github.com/sayantandutta117-hue)** | [learning_resources #8](https://github.com/AIMLCLUBOCT/learning_resources/issues/8) | Contributing Decision Boundary visual comparisons across Logistic Regression, Decision Trees, and Random Forests. |
+| **[@Alox1d](https://github.com/Alox1d)** | [Showcase #9](https://github.com/AIMLCLUBOCT/learning_resources/discussions/9) | Shared and tested **DateParser Kotlin**, multiplatform offline temporal expression engine. |
+
+<p align="center">
+  <i>Want to see your name here? Check out our <a href="https://github.com/issues?q=is%3Aissue+is%3Aopen+org%3AAIMLCLUBOCT+label%3A%22good+first+issue%22">good first issues</a> and submit a PR! 🚀</i>
+</p>
 
 ---
 
