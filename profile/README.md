@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Innovate+%E2%80%A2+Implement+%E2%80%A2+Inspire;Oriental+College+of+Technology%2C+Bhopal;Building+Production+AI+%E2%80%A2+Open+Source+%E2%80%A2+Hands-on+Labs;300%2B+Students+%E2%80%A2+12+Learning+Modules+%E2%80%A2+Colab+Workshops" alt="Typing Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Innovate+%E2%80%A2+Implement+%E2%80%A2+Inspire;Oriental+College+of+Technology%2C+Bhopal;Building+Production+AI+%E2%80%A2+Open+Source+%E2%80%A2+Hands-on+Labs;Student+Builders+%E2%80%A2+Learning+Modules+%E2%80%A2+Hands-on+Workshops" alt="Typing Tagline"/>
 
 <br/><br/>
 
@@ -65,7 +65,7 @@ We bridge the gap between classroom theory and industry-grade AI applications by
 | **Anchor Heads** | **Heer**, **Anshul Sharma** | Anchor Wing & Presentations |
 | **PR & Media Heads** | **Prakhar Sahu**, **Khushi Kumari** | Public Relations & Photopia Wing |
 
-👉 **[Meet the Complete 41-Member Council & Team Directory on aimlcluboct.github.io/#team ↗](https://aimlcluboct.github.io/#team)** • **[Official Team on aimlcluboct.in/team ↗](https://aimlcluboct.in/team)**
+👉 **[Meet the Complete Council & Team Directory on aimlcluboct.github.io/#team ↗](https://aimlcluboct.github.io/#team)** • **[Official Team on aimlcluboct.in/team ↗](https://aimlcluboct.in/team)**
 
 </div>
 
@@ -244,7 +244,7 @@ We proudly recognize the students and developers who build, improve, and documen
 
 ## 💬 Community Discussion Forums
 
-Connect with 300+ students, mentors, and alumni across our interactive discussion spaces:
+Connect with students, mentors, and alumni across our interactive discussion spaces:
 
 - 🚀 **[Student Project Showcase](https://github.com/AIMLCLUBOCT/learning_resources/discussions/9):** Share your ML prototypes, web demos, and get constructive code reviews from club seniors.
 - 💼 **[Career, Portfolio & Interview Preparation Guide](https://github.com/AIMLCLUBOCT/learning_resources/discussions/10):** Actionable strategies for landing AI/ML internships, winning hackathons, and building standout portfolios.
