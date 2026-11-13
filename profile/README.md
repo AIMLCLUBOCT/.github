@@ -224,6 +224,16 @@ Read our [**Global Contribution Guidelines**](https://github.com/AIMLCLUBOCT/.gi
 
 ---
 
+## 🧭 Project Contribution & Mentorship
+
+Want to build something with the club? Browse the [**open AIML Club OCT issues**](https://github.com/issues?q=is%3Aissue+is%3Aopen+org%3AAIMLCLUBOCT) and the [**organization project roadmap**](https://github.com/orgs/AIMLCLUBOCT/projects/2).
+
+Before coding, comment on an issue with your skills, a brief implementation plan, and availability. Wait for a maintainer to confirm the scope and assign the task. Each project should have clear deliverables, acceptance criteria, and an accountable owner.
+
+Read the [**Contributor Project Operations Guide**](https://github.com/AIMLCLUBOCT/.github/blob/main/PROJECT_OPERATIONS.md) and [**Global Contributing Guide**](https://github.com/AIMLCLUBOCT/.github/blob/main/CONTRIBUTING.md) for project levels, mentorship, progress updates, reviews, and recognition.
+
+---
+
 ## 🏆 Student Contributors & Open Source Heroes
 
 We proudly recognize the students and developers who build, improve, and document the AIML Club OCT codebase:
