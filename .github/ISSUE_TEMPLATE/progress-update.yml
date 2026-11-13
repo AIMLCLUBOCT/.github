@@ -1,7 +1,6 @@
 name: Contributor progress update
 description: Post a structured update on an existing project issue.
 title: "[progress]: "
-labels: ["progress-update"]
 body:
   - type: markdown
     attributes:
