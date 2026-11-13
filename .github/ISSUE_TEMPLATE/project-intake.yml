@@ -1,7 +1,6 @@
 name: Project proposal
 description: Propose a scoped project or contribution opportunity for AIML Club OCT.
 title: "[project]: "
-labels: ["triage"]
 body:
   - type: markdown
     attributes:
