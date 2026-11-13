@@ -1,35 +1,38 @@
 ## Summary
 
-Provide a concise overview of what this pull request introduces or fixes.
+Describe the change and the problem it solves.
 
 ## Changes Made
 
-- Bullet points detailing specific files, modules, or features updated.
-- ...
+- List the important files, modules, or features changed.
+- Note any behavior, documentation, or configuration changes.
 
-## Motivation & Context
+## Motivation and Context
 
-Why is this change necessary? What problem does it solve or what value does it add for students/members?
+Why is this change needed? Who benefits from it?
 
 ## Related Issue
 
-Closes #(issue_number) or Related to #(issue_number)
+Closes #123 or Related to #123
 
-## Testing & Verification
+## Testing and Verification
 
-Describe the tests or manual validation you performed to verify your changes:
-- [ ] Code runs without syntax or runtime errors.
-- [ ] Markdown renders properly without broken tables, tags, or links.
-- [ ] Verified dependencies in `requirements.txt` (if code was added).
+Describe the checks you ran and their results.
 
-## Screenshots / Demos (if applicable)
+- [ ] Relevant tests or validation commands pass.
+- [ ] Markdown renders correctly and links resolve.
+- [ ] Dependencies and setup instructions are documented where needed.
+- [ ] No unrelated files or generated artifacts were included.
 
-*Add screenshots, terminal output logs, or GIF recordings here if relevant.*
+## Screenshots or Demo
+
+Add screenshots, logs, or a demo link when they materially help reviewers. Do not include secrets or private data.
 
 ## Contributor Checklist
 
-- [ ] I have tested my changes locally.
-- [ ] Documentation has been updated accordingly.
-- [ ] No sensitive information (API keys, passwords, student personal data) is included.
-- [ ] All external and relative links have been verified and are working.
-- [ ] My content adheres to the repository standards and [Code of Conduct](./CODE_OF_CONDUCT.md).
+- [ ] The pull request is focused and has a clear description.
+- [ ] I tested the change or explained why testing was not applicable.
+- [ ] Documentation is updated where needed.
+- [ ] No credentials, secrets, or unauthorized personal data are included.
+- [ ] External content is attributed and its license/permission is respected.
+- [ ] My contribution follows the [Code of Conduct](../CODE_OF_CONDUCT.md).

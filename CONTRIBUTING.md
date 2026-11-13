@@ -1,102 +1,87 @@
 # Contributing to AIML Club OCT
 
-Thank you for your interest in contributing to the **AI & Machine Learning Club – Oriental College of Technology, Bhopal**! 🚀
+Thank you for your interest in contributing to the **AI & Machine Learning Club – Oriental College of Technology, Bhopal**!
 
-As a student-driven tech community, we encourage all members, students, and open-source enthusiasts to contribute. Whether you are fixing a typo, adding an AI tutorial, contributing workshop notebooks, or shipping an end-to-end machine learning project, your contributions help build our shared knowledge infrastructure.
-
----
+As a student-driven technical community, we welcome contributions from students, members, developers, and open-source contributors. Contributions may include fixing a typo, improving an AI tutorial, adding workshop material, or submitting a reproducible project.
 
 ## Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md). Please treat all community members with respect, patience, and encouragement.
+By participating, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md). Treat community members with respect and provide constructive feedback.
 
----
+## Where to Contribute
 
-## Contribution Categories
-
-We welcome contributions across several key areas:
-
-1. 📚 **Learning Resources**: Curated tutorials, roadmap improvements, clear concept explanations, and verified links to official documentation in `learning_resources`.
-2. 🛠️ **Projects**: Well-documented machine learning, deep learning, computer vision, NLP, or generative AI projects in `Projects`.
-3. 🔬 **Workshop Materials**: Interactive Jupyter notebooks, lecture slides, datasets, and step-by-step exercises in `Workshops`.
-4. 🎤 **Events Archive**: Summaries, slides, schedules, and verified records of club events and hackathons in `EVENTS`.
-5. 📝 **Documentation & Bug Fixes**: Fixing broken links, typos, clarifying instructions, or updating dependency requirements.
-6. 🧩 **Templates**: Reusable boilerplates for projects, experiments, or documentation.
-
----
+1. **Learning resources:** tutorials, roadmaps, concept explanations, and verified documentation links in `learning_resources`.
+2. **Projects:** documented AI, ML, deep learning, computer vision, NLP, and generative AI projects in `Projects`.
+3. **Workshops:** notebooks, slides, datasets with appropriate permissions, and practical exercises in `Workshops`.
+4. **Events:** event summaries, schedules, slides, and verified records in `EVENTS`.
+5. **Documentation:** fixes for typos, broken links, setup instructions, and dependency documentation.
+6. **Templates:** reusable project, experiment, and documentation templates.
 
 ## Contribution Workflow
 
-Follow these steps to contribute code or documentation:
+### 1. Choose the right repository
 
-### 1. Fork the Repository
-Click the **Fork** button at the top-right of the target repository on GitHub to create a copy under your personal account.
+Read the target repository's README and contribution instructions before making changes. If the change is substantial or introduces a new project, open an issue first to discuss its scope.
 
-### 2. Clone Your Fork
-Clone your forked repository to your local machine:
+### 2. Fork and clone
+
+Fork the target repository to your GitHub account, then clone your fork:
+
 ```bash
 git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
 cd REPOSITORY-NAME
+git remote add upstream https://github.com/AIMLCLUBOCT/REPOSITORY-NAME.git
 ```
 
-### 3. Create a Feature Branch
-Create and switch to a descriptive branch (use lowercase and hyphens):
+### 3. Create a focused branch
+
+Use a descriptive, lowercase branch name:
+
 ```bash
 git checkout -b feat/add-linear-algebra-notes
-# or
-git checkout -b fix/broken-readme-links
+# or: git checkout -b fix/broken-readme-links
 ```
 
-### 4. Make Your Changes
-- Write clean, well-formatted code or markdown.
-- For Python code, follow [PEP 8](https://peps.python.org/pep-0008/) conventions.
-- For Jupyter Notebooks, ensure outputs are cleared before committing if they contain excessive log outputs or sensitive paths.
-- Ensure all relative links and image paths are valid.
+Keep each pull request focused on one logical change. Do not commit directly to the upstream default branch.
 
-### 5. Verify and Test Locally
-Test your changes locally:
-- Verify that markdown renders correctly.
-- If contributing code, ensure scripts run and dependencies are specified in `requirements.txt` or `environment.yml`.
-- **Security Check:** Ensure NO API keys, passwords, student IDs, personal phone numbers, or credentials are included.
+### 4. Make and verify your changes
 
-### 6. Commit Your Changes
-Write clear, conventional commit messages:
+- Follow the target repository's formatting and contribution conventions.
+- For Python, use the repository's configured formatter and lint rules where available.
+- For notebooks, remove irrelevant outputs and check that no local paths, credentials, or personal data are exposed.
+- Verify relative links, image paths, and setup instructions.
+- Run the relevant tests or validation commands documented by the repository.
+- Include dependency and environment details when adding executable code.
+
+### 5. Commit and push
+
+Use a clear commit message:
+
 ```bash
 git add .
-git commit -m "docs: add linear algebra study guide and exercises"
+git commit -m "docs: add linear algebra study guide"
+git push -u origin feat/add-linear-algebra-notes
 ```
 
-Common commit prefixes:
-- `feat:` A new feature, project, or learning module
-- `fix:` A bug fix or broken link correction
-- `docs:` Documentation improvements
-- `refactor:` Code restructuring without functional changes
-- `chore:` Maintenance tasks or repository housekeeping
+Common prefixes: `feat:`, `fix:`, `docs:`, `test:`, `refactor:`, and `chore:`.
 
-### 7. Push to Your Fork
-```bash
-git push origin feat/add-linear-algebra-notes
-```
+### 6. Open a pull request
 
-### 8. Open a Pull Request
-1. Navigate to the original repository on GitHub: `https://github.com/AIMLCLUBOCT/REPOSITORY-NAME`.
-2. You will see a banner prompting you to compare and create a pull request from your branch.
-3. Complete the [Pull Request Template](./pull_request_template.md), explaining what was changed, why, and confirming the verification checklist.
-4. Submit the pull request for review!
+Open a pull request from your fork and branch into the matching `AIMLCLUBOCT` repository. Complete the [Pull Request Template](./.github/PULL_REQUEST_TEMPLATE.md) and explain the motivation, scope, and verification performed.
 
----
+A maintainer review is required before integration. Respond to review feedback with focused commits; do not force-push over shared work without coordinating with reviewers.
 
-## Quality Standards & Guidelines
+## Quality and Security Standards
 
-- **Zero Plagiarism:** Do not copy proprietary materials. When referencing external tutorials or documentation, provide proper attribution to the original author.
-- **Official Documentation Over Secondary Sources:** Always prefer linking to official documentation (e.g., Python.org, PyTorch, scikit-learn, TensorFlow, Hugging Face).
-- **No Unverifiable Claims:** Do not submit fake metrics, unverified benchmarks, or mock project statuses.
-- **Reproducibility:** Code submissions must include clear setup instructions, Python version compatibility, and a working `requirements.txt`.
-
----
+- Do not submit plagiarized or proprietary material. Attribute external sources and respect their licenses.
+- Prefer official documentation and primary sources.
+- Do not invent benchmark results, project status, affiliations, or performance claims.
+- Make code reproducible with clear setup steps, supported versions, and dependency files.
+- Never commit API keys, passwords, access tokens, private datasets, student identifiers, or personal contact information without explicit authorization.
+- Do not upload datasets or media unless you have the right to share them.
 
 ## Need Help?
 
-- If you encounter issues or have questions about how to contribute, check our [Support Guide](./SUPPORT.md).
-- Join our student community on [WhatsApp](https://chat.whatsapp.com/ITBTDOgerQVLnw9dq7jxN6) or reach out via [aimlcluboct@gmail.com](mailto:aimlcluboct@gmail.com).
-- Share suggestions directly with the club leadership at [voice.aimlcluboct.in](https://voice.aimlcluboct.in).
+- Read the [Support Guide](./SUPPORT.md).
+- For questions, contact [aimlcluboct@gmail.com](mailto:aimlcluboct@gmail.com).
+- Share suggestions through [voice.aimlcluboct.in](https://voice.aimlcluboct.in).
