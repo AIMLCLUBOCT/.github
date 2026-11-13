@@ -242,6 +242,19 @@ We proudly recognize the students and developers who build, improve, and documen
 
 ---
 
+## 🧭 Open Source Contributor Program
+
+Build real projects with AIML Club OCT. Browse the [**Project Catalog**](https://github.com/AIMLCLUBOCT/.github/blob/main/PROJECT_CATALOG.md), find an issue that matches your current skills, and volunteer with a short plan.
+
+- [Contributor Program & Mentorship](https://github.com/AIMLCLUBOCT/.github/blob/main/CONTRIBUTOR_PROGRAM.md) — project levels, roles, delivery lifecycle, reviews, and recognition.
+- [Project Catalog](https://github.com/AIMLCLUBOCT/.github/blob/main/PROJECT_CATALOG.md) — current contribution opportunities.
+- [Global Contributing Guide](https://github.com/AIMLCLUBOCT/.github/blob/main/CONTRIBUTING.md) — fork, branch, test, and pull request workflow.
+- [Open organization issues](https://github.com/issues?q=is%3Aissue+is%3Aopen+org%3AAIMLCLUBOCT) — find work across repositories.
+
+**Important:** comment with your skills, proposed deliverable, and availability. Wait for maintainer confirmation and assignment before beginning. Open issues are not automatically reserved.
+
+---
+
 ## 💬 Community Discussion Forums
 
 Connect with 300+ students, mentors, and alumni across our interactive discussion spaces:
