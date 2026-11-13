@@ -1,0 +1,83 @@
+name: Project proposal
+description: Propose a scoped project or contribution opportunity for AIML Club OCT.
+title: "[project]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing work for AIML Club OCT. Please provide enough detail for maintainers to assess scope, feasibility, ownership, and safety.
+  - type: input
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: What problem should this project solve, and for whom?
+      placeholder: A concise problem statement
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Intended outcome
+      description: What should exist when this project is complete?
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Suggested level
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+        - Research
+    validations:
+      required: true
+  - type: textarea
+    id: skills
+    attributes:
+      label: Prerequisites and skills
+      description: Languages, frameworks, domain knowledge, hardware, or access required.
+    validations:
+      required: true
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables and acceptance criteria
+      description: List concrete outputs and observable checks a reviewer can verify.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Testing and validation
+      description: How will correctness, quality, or research claims be checked?
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Data, licensing, privacy, and security considerations
+      description: Identify datasets, permissions, personal data, secrets, and relevant risks. Write "Not applicable" if none.
+    validations:
+      required: true
+  - type: input
+    id: mentor
+    attributes:
+      label: Proposed mentor or point of contact
+      description: Optional GitHub username or team; do not add private contact information.
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies and related work
+      description: Link related issues, PRs, repositories, or external references.
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Proposal checks
+      options:
+        - label: I have checked for duplicate issues or existing implementations.
+          required: true
+        - label: I have not included secrets or private personal/student data.
+          required: true
+        - label: I understand this proposal requires maintainer triage before work is assigned.
+          required: true

@@ -1,0 +1,42 @@
+name: Contributor progress update
+description: Post a structured update on an existing project issue.
+title: "[progress]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only when a maintainer asks for a separate progress record. For most projects, post the same update directly in the existing project issue to keep context together.
+  - type: input
+    id: project
+    attributes:
+      label: Related project issue
+      description: Paste the full GitHub issue URL.
+      placeholder: https://github.com/AIMLCLUBOCT/REPOSITORY/issues/123
+    validations:
+      required: true
+  - type: textarea
+    id: completed
+    attributes:
+      label: Progress completed
+      description: What changed since your last update? Link commits or evidence.
+    validations:
+      required: true
+  - type: textarea
+    id: next
+    attributes:
+      label: Next steps
+      description: What will you work on next?
+    validations:
+      required: true
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Blockers or support needed
+      description: State decisions, access, review, or technical help needed. Write "None" if clear.
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Branch, PR, demo, or test evidence
+      description: Link the relevant GitHub artifact or demo.
