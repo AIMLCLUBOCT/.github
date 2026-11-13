@@ -6,6 +6,14 @@ As a student-driven tech community, we encourage all members, students, and open
 
 ---
 
+## Contributor Program
+
+Start with the [Project Catalog](./PROJECT_CATALOG.md) to find scoped work. Read the [Contributor Program](./CONTRIBUTOR_PROGRAM.md) for project levels, volunteering, assignment, mentorship, progress updates, review expectations, and recognition.
+
+New project proposals should use the **Project proposal** issue form. For active work, post progress directly in the existing project issue unless a maintainer asks for a separate update. Always wait for scope confirmation and assignment before starting work.
+
+---
+
 ## Code of Conduct
 
 By participating in this project, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md). Please treat all community members with respect, patience, and encouragement.
